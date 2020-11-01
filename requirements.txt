@@ -1,0 +1,22 @@
+# Core
+torchaudio
+torch
+numpy 
+scipy
+librosa
+
+# Image processing
+Pillow
+
+# Training
+wandb
+tqdm 
+
+# Utiltiies
+pyyaml
+awscli
+requests
+cerberus
+
+# Testing
+pytest
